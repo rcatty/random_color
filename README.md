@@ -1,0 +1,2 @@
+# random_color
+RANDOM COLORS WITH JAVASCRIPT
